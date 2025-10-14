@@ -9,4 +9,4 @@
 
 [<img align="left" alt="Ronald Lam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/ronaldmlam/
+[linkedin]: https://www.linkedin.com/in/ronald-lam-80b7a338a/
