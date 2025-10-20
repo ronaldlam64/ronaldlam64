@@ -6,6 +6,9 @@
   - [Installation and Setup](https://github.com/ronaldlam64/active-directory-deployment)
   - [Creating and applying GPO](https://github.com/ronaldlam64/creating-gpo-in-ad/tree/main)
   - [Disabling NLA](https://github.com/ronaldlam64/ad-disabling-NLA)
+
+ <b>Wireshark</b>
+  - [Analyzing network traffic](https://github.com/ronaldlam64/analyzing-network-traffic)
     
 
 <h2> 🤳 Connect with me:</h2>
