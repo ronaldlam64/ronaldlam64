@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronald! <br/><a href="https://www.linkedin.com/in/ronaldmlam/">Accountant</a> transitioning to <a href="https://github.com/ronaldlam64">IT</a></h1>
+<h1>Hi, I'm Ronald! <br/><a href="https://www.linkedin.com/in/ronaldlamtech/">Accountant</a> transitioning to <a href="https://github.com/ronaldlam64">IT</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
